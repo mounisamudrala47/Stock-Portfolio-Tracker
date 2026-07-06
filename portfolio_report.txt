@@ -1,0 +1,30 @@
+STOCK PORTFOLIO REPORT
+========================================
+
+Stock      : AAPL
+Price      : $180
+Quantity   : 15
+Investment : $2700
+----------------------------------------
+Stock      : GOOGL
+Price      : $150
+Quantity   : 7
+Investment : $1050
+----------------------------------------
+Stock      : TSLA
+Price      : $250
+Quantity   : 7
+Investment : $1750
+----------------------------------------
+Stock      : MSFT
+Price      : $320
+Quantity   : 6
+Investment : $1920
+----------------------------------------
+Stock      : AMZN
+Price      : $140
+Quantity   : 8
+Investment : $1120
+----------------------------------------
+
+Total Investment Value = $8540
